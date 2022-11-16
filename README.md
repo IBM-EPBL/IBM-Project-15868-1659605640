@@ -15,7 +15,6 @@ Retail Store Stock Inventory Analytics
 | --- | --- |
 | Project Title |Retail Store Stock Inventory Analytics |
 | Project Category | Data Science &emsp; |
-| Team ID |PNT2022TMID51903 &emsp; |
 | Team Size |4 &emsp; |
 | College Name |SRI RAMAKRISHNA ENGINEERING COLLEGE, COIMBATORE &emsp; |
 | Team Mentor |MS.Rathi G|
