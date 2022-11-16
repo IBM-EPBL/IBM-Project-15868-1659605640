@@ -17,7 +17,7 @@ Retail Store Stock Inventory Analytics
 | Project Category | Data Science &emsp; |
 | Team Size |4 &emsp; |
 | College Name |SRI RAMAKRISHNA ENGINEERING COLLEGE, COIMBATORE &emsp; |
-| Team Mentor |MS.Rathi G|
+| Team Mentor |Ms.Rathi G|
 
 &emsp;
 
